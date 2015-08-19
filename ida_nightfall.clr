@@ -3,7 +3,7 @@
 aaaaaa	 //Directive
 df69d2	 //Macro name
 b15cb1	 //Register name
-c1aabc	 //Other keywords
+8c8c8c	 //Other keywords
 ffffff	 //Dummy data name
 a4cfcf	 //Dummy code name
 b9ebeb	 //Dummy unexplored name
@@ -13,10 +13,10 @@ c0c0c0	 //Library function name
 00ff00	 //Regular data name
 3250d2	 //Regular code name
 4646ff	 //Regular unexplored name
-b68f18	 //Demangled name
-1d8a24	 //Segment name
+cba21a	 //Demangled name
+24ad2d	 //Segment name
 3250d2	 //Imported name
-008080	 //Suspicious constant
+24ad2d	 //Suspicious constant
 3734ff	 //Char in instruction
 c0c0c0	 //String in instruction
 cacaca	 //Number in instruction
@@ -30,9 +30,9 @@ c8c800	 //Code reference
 7e07df	 //Automatic comment
 0ebbff	 //Regular comment
 0ebbff	 //Repeatable comment
-3250d2	 //Extra line
+3555e2	 //Extra line
 f3f3f3	 //Collapsed line
-cece8e	 //Line prefix: library function
+ddc7a0	 //Line prefix: library function
 fd5aff	 //Line prefix: regular function
 7fffff	 //Line prefix: instruction
 00ffaa	 //Line prefix: data
@@ -40,7 +40,7 @@ fd5aff	 //Line prefix: regular function
 ffaaff	 //Line prefix: externs
 00ffff	 //Line prefix: current item
 000000	 //Line prefix: current line
-0d0d0d	 //Punctuation
+080808	 //Punctuation
 7c5c5c	 //Opcode bytes
 ffff00	 //Manual operand
 e39f00	 //Error
@@ -102,4 +102,4 @@ ffffff	 //Message background
 404080	 //Patched bytes
 0080ff	 //Unsaved changes
 a84628	 //Highlight color
-111414	 //Hint color
+101010	 //Hint color
