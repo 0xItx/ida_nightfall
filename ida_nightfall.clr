@@ -32,7 +32,7 @@ c8c800	 //Library function name
 0ebbff	 //Char constant in data directive
 3555e2	 //Numeric constant in data directive
 f3f3f3	 //Keywords
-c6c075	 //Register name
+c2b15a	 //Register name
 fd5aff	 //Imported name
 7fffff	 //Segment name
 00ffaa	 //Dummy unknown name
@@ -63,17 +63,17 @@ c816c8	 //External symbol
 00ff80	 //Cursor
 0080ff	 //Address
 [DEBUG]
-792355	 //Current IP
-792355	 //Current IP (Enabled)
-792355	 //Current IP (Disabled)
-0d0d0d	 //Current IP (Unavailible)
-00004f	 //Address
-006200	 //Address (Enabled)
-792355	 //Address (Disabled)
-0080ff	 //Address (Unavailible)
+681e48	 //Current IP
+4a1391	 //Current IP (+ enabled breakpoint)
+681e48	 //Current IP (+ disabled breakpoint)
+080808	 //Default background
+00004f	 //Address (+ enabled breakpoint)
+006200	 //Address (+ disabled breakpoint)
+681e48	 //Current IP (+ unavailable breakpoint)
+0080ff	 //Address (+ unavailable breakpoint)
 ffffff	 //Registers
-ffbb00	 //Registers (Changed)
-7a07b8	 //Registers (Edited)
+ffbb00	 //Registers (changed)
+7a07b8	 //Registers (edited)
 [ARROW]
 abb100	 //Jump in current function
 ea7304	 //Jump external to function
@@ -84,8 +84,8 @@ ff4040	 //Register target
 dddddd	 //Top color
 aaaaaa	 //Bottom color
 f5f5f5	 //Normal title
-bf032f	 //Selected title
-bf032f	 //Current title
+b90129	 //Selected title
+b90129	 //Current title
 00ffff	 //Group frame
 242424	 //Node shadow
 003900	 //Highlight color 1
