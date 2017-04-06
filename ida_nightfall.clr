@@ -32,7 +32,7 @@ c8c800	 //Library function name
 0ebbff	 //Char constant in data directive
 3555e2	 //Numeric constant in data directive
 f3f3f3	 //Keywords
-c2b15a	 //Register name
+b9a73b	 //Register name
 fd5aff	 //Imported name
 7fffff	 //Segment name
 00ffaa	 //Dummy unknown name
@@ -41,7 +41,7 @@ ffaaff	 //Regular unknown name
 00ffff	 //Collapsed line
 000000	 //Max color number
 080808	 //Line prefix: library function
-622b27	 //Line prefix: regular function
+e3e3e3	 //Line prefix: regular function
 ffff00	 //Line prefix: instruction
 e39f00	 //Line prefix: data
 bf5825	 //Line prefix: unexplored
@@ -102,7 +102,7 @@ ffffff	 //Message background
 404080	 //Patched bytes
 0080ff	 //Unsaved changes
 [OTHER]
-9e2725	 //Highlight color
+bd2c29	 //Highlight color
 080808	 //Hint color
 [SYNTAX]
 ff0000	0	0	 //Keyword 1
