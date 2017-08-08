@@ -40,7 +40,7 @@ fd5aff	 //Imported name
 ffaaff	 //Regular unknown name
 00ffff	 //Collapsed line
 000000	 //Max color number
-080808	 //Line prefix: library function
+040404	 //Line prefix: library function
 e3e3e3	 //Line prefix: regular function
 ffff00	 //Line prefix: instruction
 e39f00	 //Line prefix: data
@@ -88,8 +88,8 @@ b90129	 //Selected title
 b90129	 //Current title
 00ffff	 //Group frame
 242424	 //Node shadow
-003900	 //Highlight color 1
-00006d	 //Highlight color 2
+263506	 //Highlight color 1
+290140	 //Highlight color 2
 0000ff	 //Foreign node
 cb4300	 //Normal edge
 009100	 //Yes edge
