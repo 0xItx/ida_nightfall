@@ -97,12 +97,12 @@ cb4300	 //Normal edge
 00ccff	 //Highlighted edge
 f00252	 //Current edge
 [MISC]
-212121	 //Message text
+000000	 //Message text
 ffffff	 //Message background
-404080	 //Patched bytes
+6562cb	 //Patched bytes
 0080ff	 //Unsaved changes
 [OTHER]
-bd2c29	 //Highlight color
+a65566	 //Highlight color
 080808	 //Hint color
 [SYNTAX]
 ff0000	0	0	 //Keyword 1
