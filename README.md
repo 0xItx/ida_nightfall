@@ -13,5 +13,9 @@ A dark color theme for IDA Pro
 ![Debug](screenshots/debug.png)
 
 ## Installation
-* ```wget https://raw.githubusercontent.com/0xItx/ida_nightfall/master/ida_nightfall.clr```
+### >= 7.3
+* `mkdir -p ~/.idapro/themes/nightfall && wget https://raw.githubusercontent.com/0xItx/ida_nightfall/master/theme.css -O ~/.idapro/themes/nightfall/theme.css`
+
+### Older versions
+* `wget https://raw.githubusercontent.com/0xItx/ida_nightfall/master/ida_nightfall.clr`
 * Options -> Colors -> Import
